@@ -1,4 +1,4 @@
-## Olá! Eu sou o Yago Sacramento 🖐️
+## Olá! Eu sou o Yago Sacramento 🖥️
 
 
 <div style="display: inline_block">
@@ -10,5 +10,3 @@
 </div><br/>
 
 Apaixonado por tecnologia!
-
-![Yago GitHub stats](https://github-readme-stats.vercel.app/api?username=YagoSacramento01&show_icons=true&theme=radical)
