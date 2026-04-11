@@ -26,10 +26,36 @@
 💡 Sobre mim
 🔧 Profissional de TI com experiência em suporte técnico, infraestrutura e administração de ambientes Windows, com foco em automação de processos utilizando Python e resolução eficiente de incidentes
 
-📚 Atualmente estudando:
-- Windows Server
-- Cloud Computing
-- Arquitetura de Redes
+### 📚 Em desenvolvimento
 
-### 🎯 Objetivo Final
-Atuar com automação e evoluir para soluções de infraestrutura e arquitetura de sistemas
+Atualmente estou seguindo um plano estruturado de formação em Python, com foco em desenvolvimento de aplicações e automação:
+
+**🐍 Python e Programação**
+- Programação com Python (fundamentos e boas práticas)
+- Programação Orientada a Objetos (POO)
+- Desenvolvimento de projetos práticos
+
+**🌐 Desenvolvimento Web**
+- Flask (criação de APIs e aplicações web)
+- HTTP e funcionamento da web
+- Documentação de APIs com Swagger (OpenAPI)
+
+**🗄️ Banco de Dados**
+- MySQL (modelagem e consultas)
+
+**⚙️ Infraestrutura e DevOps**
+- Docker (containers e ambientes isolados)
+
+---
+
+### 🚀 Progresso atual
+- ✔️ Python com Orientação a Objetos (em andamento)
+- 🔄 Prática com Python
+- ⏳ Iniciando desenvolvimento com Flask
+
+### 🎯 Foco do aprendizado
+Aplicar Python para:
+- Automação de tarefas em ambientes corporativos  
+- Desenvolvimento de APIs  
+- Integração com sistemas e bancos de dados  
+- Evolução para soluções de infraestrutura e backend
