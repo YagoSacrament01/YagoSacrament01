@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou o Yago Sacramento 🖥️
 
-💻 Analista de Suporte de TI | Infraestrutura | Python | Automação | Sistemas ERP
+💻 Analista de Suporte de TI | Infraestrutura | Automação com Python | Sistemas ERP
 
 ---
 
@@ -23,13 +23,13 @@
 
 ---
 
-### 💡 Sobre mim
-🔧 Focado em automação de processos e resolução de problemas em ambientes de TI
+💡 Sobre mim
+🔧 Profissional de TI com experiência em suporte técnico, infraestrutura e administração de ambientes Windows, com foco em automação de processos utilizando Python e resolução eficiente de incidentes
 
 📚 Atualmente estudando:
 - Windows Server
 - Cloud Computing
 - Arquitetura de Redes
 
-🎯 Objetivo:
-Evoluir na área de infraestrutura e me especializar em Arquitetura de Redes
+### 🎯 Objetivo Final
+Atuar com automação e evoluir para soluções de infraestrutura e arquitetura de sistemas
