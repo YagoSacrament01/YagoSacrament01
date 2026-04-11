@@ -1,4 +1,5 @@
 ## Olá! Eu sou o Yago Sacramento 🖥️
+💻 Analista de Suporte de TI | Infraestrutura | Python | Automação | Sistemas ERP
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
