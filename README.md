@@ -15,46 +15,33 @@
 <div style="display: inline_block"><br/>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</div>
-
-<div style="display: inline_block"><br/>
   <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
 ---
 
-💡 Sobre mim
-🔧 Profissional de TI com experiência em suporte técnico, infraestrutura e administração de ambientes Windows, com foco em automação de processos utilizando Python e resolução eficiente de incidentes
+### 💡 Sobre mim
+🔧 Profissional de TI com experiência em suporte técnico, infraestrutura e administração de ambientes Windows, com foco em automação de processos e resolução de incidentes
+
+---
 
 ### 📚 Em desenvolvimento
-
-Atualmente estou seguindo um plano estruturado de formação em Python, com foco em desenvolvimento de aplicações e automação:
-
-**🐍 Python e Programação**
-* Programação com Python (fundamentos e boas práticas)
-* Programação Orientada a Objetos (POO)
-* Desenvolvimento de projetos práticos
-
-**🌐 Desenvolvimento Web**
-* Flask (criação de APIs e aplicações web)
-* HTTP e funcionamento da web
-* Documentação de APIs com Swagger (OpenAPI)
-
-**🗄️ Banco de Dados**
-* MySQL (modelagem e consultas)
+- Python (POO e projetos práticos)  
+- Flask (APIs e aplicações web)  
+- MySQL  
+- Docker  
 
 ---
 
 ### 🚀 Progresso atual
-* ✔️ Python com Orientação a Objetos (em andamento)
-* 🔄 Prática com Python
-* ⏳ Iniciando desenvolvimento com Flask
+- ✔️ Python com Orientação a Objetos (em andamento)  
+- 🔄 Prática com Python  
+- ⏳ Iniciando desenvolvimento com Flask  
 
 ---
 
-🎯 Foco do aprendizado
-Aplicar Python para:
-* Automação de tarefas em ambientes corporativos  
-* Desenvolvimento de APIs  
-* Integração com sistemas e bancos de dados  
-* Evolução para soluções de infraestrutura e backend
+### 🎯 Foco
+- Automação de tarefas em ambientes corporativos  
+- Desenvolvimento de APIs  
+- Integração com sistemas e bancos de dados  
+- Evolução para infraestrutura e arquitetura de sistemas  
