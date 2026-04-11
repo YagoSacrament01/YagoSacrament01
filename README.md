@@ -53,7 +53,9 @@ Atualmente estou seguindo um plano estruturado de formação em Python, com foco
 - 🔄 Prática com Python
 - ⏳ Iniciando desenvolvimento com Flask
 
-### 🎯 Foco do aprendizado
+---
+
+🎯 Foco do aprendizado
 Aplicar Python para:
 - Automação de tarefas em ambientes corporativos  
 - Desenvolvimento de APIs  
